@@ -1,0 +1,4 @@
+.backgroud-city{
+    background: url("../images/fundo.jpg") repeat center bottom ;
+    background-size: cover;
+}
